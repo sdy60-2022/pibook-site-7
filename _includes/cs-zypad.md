@@ -20,4 +20,4 @@ WiFi 802.11 b/g με μνήμη έως 64ΜΒ RAM και 64 ΜΒ Flash και μ
 
 
 
-{% include figure image_path="/images/zypad.md" %}
+
