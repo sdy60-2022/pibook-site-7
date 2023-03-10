@@ -15,10 +15,10 @@
 Τώρα, 50 και πλέον χρόνια αργότερα, ο Furness είναι γνωστός ως "ο παππούς της εικονικής πραγματικότητας" και συνεχίζει να διευρύνει τα όρια της εικονικής πραγματικότητας στο Εργαστήριο Τεχνολογίας Ανθρώπινης Διεπαφής (Human Interface Technology Lab - HIT Lab) του Πανεπιστημίου της Ουάσινγκτον και στα εργαστήρια HIT στη Νέα Ζηλανδία και την Αυστραλία [^1].
 
 
-[^1] https://www.embs.org/pulse/articles/virtual-reality-pioneer-tom-furness-on-the-past-present-and-future-of-vr-in-health-care/
+[^1]: https://www.embs.org/pulse/articles/virtual-reality-pioneer-tom-furness-on-the-past-present-and-future-of-vr-in-health-care/
 
-[^2] https://voicesofvr.com/245-50-years-of-vr-with-tom-furness-the-super-cockpit-virtual-retinal-display-hit-lab-virtual-world-society/
+[^2]: https://voicesofvr.com/245-50-years-of-vr-with-tom-furness-the-super-cockpit-virtual-retinal-display-hit-lab-virtual-world-society/
 
-[^3] https://www.digitaltrends.com/cool-tech/history-of-virtual-reality/
+[^3]: https://www.digitaltrends.com/cool-tech/history-of-virtual-reality/
 
 
