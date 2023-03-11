@@ -1,13 +1,14 @@
 ---
 author: afoscolou
 title: "Super Cockpit"
-image_url: /images/SuperCockpit_thumbnail.png
-caption: Περίπου την ίδια εποχή που ο Ivan Sutherland εργαζόταν πάνω στο έργο του "Δαμόκλειος σπάθη", ένας μηχανικός του Αμερικανικού στρατού ονόματι Thomas Furness ήταν απασχολημένος με την ανάπτυξη ενός φιλόδοξου έργου προσομοίωσης πτήσης, το οποίο τελικά εξελίχθηκε στο Super Cockpit.
+image_url: /images/SuperCockpit.png
+caption: Την ίδια εποχή που ο Sutherland κατασκεύαζε τη "Δαμόκλειο σπάθη", ένας μηχανικός του Αμερικανικού στρατού, ο Thomas Furness, ανέπτυσσε ένα από τα πρώτα συστήματα VR για προσομοίωση πτήσης, το Super Cockpit.
 categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
 tags:
   - supercockpit
+  - Furness
   - success
 ---
 
