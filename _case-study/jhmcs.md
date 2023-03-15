@@ -18,4 +18,4 @@ gallery:
 
 {% include cs-jhmcs.md %}
 
-{% include gallery %}
+{% include images %}
