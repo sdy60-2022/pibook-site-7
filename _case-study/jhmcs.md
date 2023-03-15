@@ -9,7 +9,7 @@ categories:
 tags:
   - artificial reality
   - augmented reality
-gallery:
+images:
   - image_url: /images/jhmcs_thumb.jpeg
     caption: " Το JHMCS ενσωματώνει ένα σύστημα μαγνητικής παρακολούθησης υψηλής ακρίβειας, παρέχοντας στον πιλότο πλήρη επίγνωση της κατάστασης σε όλο το οπτικό πεδίο του θόλου και ταυτόχρονα ο πιλότος βλέπει τα δεδομένα πτήσης καθώς και επίλυσης βολής όπλων στο οπτικό του πεδίο."
   - image_url: /images/jhmcs_thumb.jpeg
