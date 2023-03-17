@@ -1,8 +1,8 @@
 ---
 author: vkaragia
 title: "Virtual Reality Medical Simulation in Military Training"
-image_url: /images/vr_medical1.png
-caption: "Το Virtual Advancement of Learning and Operational Readiness (VALOR) βασίζεται στην πλατφόρμα SimX και εκπαιδεύει το υγειονομικό προσωπικό των ΕΔ σε ρεαλιστικά σενάρια εκμεταλλευόμενο τις δυνατότητες της Virtual Reality."
+image_url: /images/vr_medical.png
+caption: "Εκπαίδευση του υγειονομικού προσωπικού των ενόπλων δυνάμεων σε ρεαλιστικά σενάρια περιστατικών μάχης με τη χρήση εξοπλισμού εικονικής πραγματικότητας."
 categories:
   - Μελέτη Περίπτωσης
   - Ορισμός
