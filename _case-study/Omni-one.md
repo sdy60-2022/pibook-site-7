@@ -10,7 +10,7 @@ categories:
 tags:
   - Omni One
   - Virtuix
- ---
+---
 
 {% include cs-Omni-one.md %}
  
