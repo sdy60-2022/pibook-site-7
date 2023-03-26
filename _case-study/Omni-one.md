@@ -12,5 +12,5 @@ tags:
   - Virtuix
  ---
 
-{% include cs-Omni-one.md %}
+{% include cs-apds9960.md %}
  
