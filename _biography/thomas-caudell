@@ -1,0 +1,15 @@
+---
+author: dimidimots
+title: "Thomas Caudell"
+image_url: 
+caption: O Thomas Caudell δημιούργησε τον όρο «επαυξημένη πραγματικότητα».
+categories:
+  - Βιογραφία 
+  - Ορισμός 
+tags:
+  - Augmented reality
+  - David Mizell 
+  - Artificial intelligence
+---
+
+{% include bio-caudell.md %}
