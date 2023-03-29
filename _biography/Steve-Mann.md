@@ -2,7 +2,7 @@
 author: vagelisNerantzis
 title: Steve Mann
 image_url: /images/stevemann.jpg
-caption: Ο Steve Mann είναι μία προσωπικότητα με μεγάλη επιρροή στην ανάπτυξη των φορετών υπολογιστών.
+caption: "Ο Steve Mann είναι μία προσωπικότητα με μεγάλη επιρροή στην ανάπτυξη των φορετών υπολογιστών."
 categories:
   - Βιογραφία
   - Διεπαφή
