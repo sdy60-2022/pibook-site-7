@@ -10,4 +10,4 @@ tags:
   - retail industry
   - augmented reality
 ---
-
+{%include cs-retail_industry.md %}
