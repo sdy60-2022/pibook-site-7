@@ -17,6 +17,8 @@
 
 Για την ανίχνευση της χειρονομίας ενεργοποείται IR led το φως του οποίου αντανακλάται στο αντικείμενο και προσλαμβάνεται από τέσσερος στρατηγικά τοποθετημένες κατευθυντικές φωτοδιόδους. Ο αισθητήρας υλοποιεί πρωτόκολλο I2C για την επικοινωνία, έχει ανάλυση 8bit και διαθέτει έξοδο ρυθμιζόμενου interrupt που ενεργοποείται όταν οι τιμές των χρωμάτων ή του αισθητήρα εγγύτητας υπερβούν προκαθορισμένο κατώφλι.
 
+{% include figure image_path="/images/APDS9960-Pinout.png" caption="Figure 2: Pinout" %}
+
 Πηγές:
 https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960
 https://www.adafruit.com/product/3595
