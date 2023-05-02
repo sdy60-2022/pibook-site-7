@@ -4,4 +4,4 @@ O Palmer Luckey είναι γνωστός ως ο ιδρυτής της εται
 
 Ξεκίνησε με μια καμπάνια στο Kickstarter, η οποία ήταν επιτυχής και άντλησε αρκετά χρήματα για να χρηματοδοτήσει τα επόμενά του βήματα. 
 
-{% include figure image_path="/images/palmer_luckey.jpg" caption="Figure: Ο Palmer Luckey με ένα από τα πρώτα development kits του Oculus."%}
+{% include figure image_path="/images/palmer_luckey.jpg" caption="Figure: Ο Palmer Luckey με ένα από τα πρώτα development kits του Oculus." %}
