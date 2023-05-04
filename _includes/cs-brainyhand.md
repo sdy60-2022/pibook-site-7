@@ -17,13 +17,13 @@
 
 Tamaki, E., Miyaki, T., & Rekimoto, J. (2009). Brainy hand: an ear-worn hand gesture interaction device. In CHI'09 Extended Abstracts on Human Factors in Computing Systems (pp. 4255-4260).
 
-https://doi.org/10.1145/1520340.1520649
+[DOI: https://doi.org/10.1145/1520340.1520649](https://doi.org/10.1145/1520340.1520649)
 
 Tamaki, E., Miyak, T., & Rekimoto, J. (2010, May). BrainyHand: a wearable computing device without HMD and it's interaction techniques. In Proceedings of the International Conference on Advanced Visual Interfaces (pp. 387-388).
 
-https://doi.org/10.1145/1842993.1843070
+[DOI: https://doi.org/10.1145/1842993.1843070](https://doi.org/10.1145/1842993.1843070)
 
 Tamaki, E. (2010, January). A robust and accurate 3D hand posture estimation method for interactive systems. In Proceedings of the fourth international conference on Tangible, embedded, and embodied interaction (pp. 321-322).
 
-https://doi.org/10.1145/1709886.1709963
+[DOI: https://doi.org/10.1145/1709886.1709963](https://doi.org/10.1145/1709886.1709963)
 
